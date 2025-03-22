@@ -10,6 +10,14 @@
       "StackName": "amplify-vistara-dev-6bfb4",
       "StackId": "arn:aws:cloudformation:ap-south-1:182399727492:stack/amplify-vistara-dev-6bfb4/3a7a9ba0-072a-11f0-999c-0241911b3e33",
       "AmplifyAppId": "d2jezk8242234l"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2jezk8242234l",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
