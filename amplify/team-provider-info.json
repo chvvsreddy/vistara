@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vistara-dev-6bfb4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::182399727492:role/amplify-vistara-dev-6bfb4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::182399727492:role/amplify-vistara-dev-6bfb4-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-vistara-dev-6bfb4-deployment",
+      "UnauthRoleName": "amplify-vistara-dev-6bfb4-unauthRole",
+      "StackName": "amplify-vistara-dev-6bfb4",
+      "StackId": "arn:aws:cloudformation:ap-south-1:182399727492:stack/amplify-vistara-dev-6bfb4/3a7a9ba0-072a-11f0-999c-0241911b3e33",
+      "AmplifyAppId": "d2jezk8242234l"
+    }
+  }
+}
